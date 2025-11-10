@@ -14,7 +14,7 @@
 **🎓 Data Science & IA | UFPB**
 🌍 Manaus → João Pessoa → to the world <br>
 💡 Passionate about **intelligent systems** and **data-driven solutions** <br>
-🎯 Mission: to explore the frontier between humans and machines
+🎯 Mission: **to explore** the frontier between **humans and machines**
 
 📧 Contact: antoniosalazar@tuta.io
 
