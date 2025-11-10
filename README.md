@@ -1,8 +1,20 @@
 # 👨🏾‍💻 Antonio Salazar #
 
-**🎓 Data Science & IA @UFPB**  
-🇧🇷 Manaus -> João Pessoa.
-🎯 Mission: use engineering to improve the world and shape my legacy
+**🎓 Ciência de Dados & IA | UFPB** <br>
+🌎 Manaus → João Pessoa → para o mundo <br>
+💡 Apaixonado por **sistemas inteligentes** e **soluções em dados**
+🎯 Missão: **explorar** a fronteira entre **o humano e a máquina**
+
+📧 Contato: antoniosalazar@tuta.io
+
+---
+
+## 🇺🇸 english
+
+**🎓 Data Science & IA | UFPB**
+🌍 Manaus → João Pessoa → to the world <br>
+💡 Passionate about **intelligent systems** and **data-driven solutions** <br>
+🎯 Mission: to explore the frontier between humans and machines
 
 📧 Contact: antoniosalazar@tuta.io
 
