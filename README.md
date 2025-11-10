@@ -11,7 +11,7 @@
 
 ## 🇺🇸 english
 
-**🎓 Data Science & IA | UFPB**
+**🎓 Data Science & IA | UFPB** <br>
 🌍 Manaus → João Pessoa → to the world <br>
 💡 Passionate about **intelligent systems** and **data-driven solutions** <br>
 🎯 Mission: **explore** the frontier between **humans and machines**
