@@ -2,7 +2,7 @@
 
 **🎓 Ciência de Dados & IA | UFPB** <br>
 🌎 Manaus → João Pessoa → para o mundo <br>
-💡 Apaixonado por **sistemas inteligentes** e **soluções em dados**
+💡 Apaixonado por **sistemas inteligentes** e **soluções em dados** <br>
 🎯 Missão: **explorar** a fronteira entre **o humano e a máquina**
 
 📧 Contato: antoniosalazar@tuta.io
