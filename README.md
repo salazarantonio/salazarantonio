@@ -20,7 +20,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=salazarantonio&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="(https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)" />
+  <img src="(https://streak-stats.demolab.com/?user=salazarantonio)(https://git.io/streak-stats)" />
 </picture>
 
 ##
